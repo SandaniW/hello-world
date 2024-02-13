@@ -1,5 +1,5 @@
 #HelloWorld
 
-HelloWorld repository for git tutorial
+HelloWorld repository as a git tutorial
 
-Will be updating step by step
+This repository will be built step by step
